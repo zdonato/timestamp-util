@@ -1,6 +1,6 @@
 {
   "name": "timestamp-util",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A timestamp utility function to work with Node.js. Timestamp will append a timestamp to your logging.\"",
   "main": "timestamp-util.js",
   "scripts": {
