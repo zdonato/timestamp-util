@@ -1,6 +1,6 @@
 {
   "name": "timestamp-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A timestamp utility function to work with Node.js. Timestamp will append a timestamp to your logging.\"",
   "main": "timestamp-util.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zdonato/timestamp-util/issues"
   },
-  "homepage": "https://github.com/zdonato/timestamp-util#readme"
+  "homepage": "https://github.com/zdonato/timestamp-util#readme",
+  "dependencies": {
+    "moment": "^2.14.1"
+  }
 }
